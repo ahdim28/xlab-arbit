@@ -13,8 +13,8 @@
                 <th style="width: 170px;">COINT</th>
                 <th class="text-center" colspan="2">INDODAX</th>
                 <th class="text-center" colspan="2">HUOBI</th>
-                <th class="text-center">HUOBI > INDODAX</th>
                 <th class="text-center">INDODAX > HUOBI</th>
+                <th class="text-center">HUOBI > INDODAX</th>
             </tr>
             <tr>
                 <th>LIST</th>
